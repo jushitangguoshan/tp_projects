@@ -1,0 +1,3 @@
+前台：solarshop.com
+后台：http://solarshop.com/index.php?s=admin
+admin    admin888
